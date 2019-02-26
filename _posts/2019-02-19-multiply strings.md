@@ -1,10 +1,12 @@
 ---
+title: "【アルゴリズム勉強】JavaでMultiply Stringsアルゴリズム解決"
 layout: post
-title:  "【アルゴリズム勉強】JavaでMultiply Stringsアルゴリズム解決"
-date:   2019-02-19
-tags:
-image:
-comments: true
+date: 2016-02-19
+tag: jekyll
+projects: true
+category: project
+author: Seokgi
+externalLink: false
 ---
 
 LeetCodeでアルゴリズムを解決！

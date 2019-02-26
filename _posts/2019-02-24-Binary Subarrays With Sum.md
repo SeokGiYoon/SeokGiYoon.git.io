@@ -1,11 +1,15 @@
 ---
+title: "【アルゴリズム勉強】JavaでBinary Subarrays With Sumアルゴリズム解決"
 layout: post
-title:  "【アルゴリズム勉強】JavaでBinary Subarrays With Sumアルゴリズム解決"
-date:   2019-02-19
-tags:
-image:
-comments: true
+date: 2016-02-24
+tag: jekyll
+projects: true
+category: project
+author: Seokgi
+externalLink: false
 ---
+
+
 
 LeetCodeでアルゴリズムを解決！
 

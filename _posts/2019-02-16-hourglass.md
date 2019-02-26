@@ -1,10 +1,13 @@
+
 ---
+title: "【アルゴリズム勉強】Java, Cでhourglassアルゴリズム解決"
 layout: post
-title:  "【アルゴリズム勉強】Java, Cでhourglassアルゴリズム解決"
-date:   2019-02-16
-tags:
-image:
-comments: true
+date: 2016-02-16
+tag: jekyll
+projects: true
+category: project
+author: Seokgi
+externalLink: false
 ---
 
 HackerrankでHourglassを解決
