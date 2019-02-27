@@ -1,4 +1,3 @@
-
 ---
 title: "【アルゴリズム勉強】JavaでReverse Vowels of a Stringアルゴリズム解決"
 layout: post

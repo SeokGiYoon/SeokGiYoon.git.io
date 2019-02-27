@@ -1,4 +1,3 @@
-
 ---
 title: "【アルゴリズム勉強】Java, Cでhourglassアルゴリズム解決"
 layout: post

@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="433e1a89-e692-41d8-83c4-b40d6a960a47" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-16-hourglass.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-16-hourglass.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-19-Reverse Vowels of a String.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-25-Reverse Vowels of a String.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-19-multiply strings.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-19-multiply strings.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-23 Two Sum" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-23 Two Sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-24-Binary Subarrays With Sum.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-24-Binary Subarrays With Sum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-02-27-Set Mismatch.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-01-23-indigo-jekyll-theme.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-16-hourglass.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-16-hourglass.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-23 Two Sum.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-23 Two Sum.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-25-Reverse Vowels of a String.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-25-Reverse Vowels of a String.markdown" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +29,7 @@
           <entry key="2019-02-23 Two Sum" value="1" />
           <entry key="html" value="5" />
           <entry key="jpg" value="1" />
-          <entry key="markdown" value="1" />
+          <entry key="markdown" value="3" />
           <entry key="md" value="8" />
           <entry key="yml" value="2" />
         </counts>
@@ -37,7 +38,7 @@
         <counts>
           <entry key="HTML" value="5" />
           <entry key="Image" value="1" />
-          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="PLAIN_TEXT" value="12" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
@@ -45,6 +46,7 @@
         <counts>
           <entry key="2019-02-23 Two Sum" value="5" />
           <entry key="html" value="9" />
+          <entry key="markdown" value="22" />
           <entry key="md" value="44" />
           <entry key="yml" value="80" />
         </counts>
@@ -52,7 +54,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="9" />
-          <entry key="PLAIN_TEXT" value="49" />
+          <entry key="PLAIN_TEXT" value="71" />
           <entry key="YAML" value="80" />
         </counts>
       </usages-collector>
@@ -70,19 +72,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="85" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+              <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -91,61 +84,54 @@
         <entry file="file://$PROJECT_DIR$/projects.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="64" lean-forward="true" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+              <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-01-23-indigo-jekyll-theme.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" selection-end-line="13" selection-end-column="3" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components.markdown">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-02-16-hourglass.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="10" selection-end-column="3" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/_posts/2019-02-16-hourglass.markdown">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-02-19-multiply strings.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" selection-end-line="9" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-02-23 Two Sum">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-02-24-Binary Subarrays With Sum.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-02-19-multiply strings.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-02-23 Two Sum.markdown">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-02-24-Binary Subarrays With Sum.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-02-25-Reverse Vowels of a String.markdown">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-02-25-Reverse Vowels of a String.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-02-27-Set Mismatch.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="786">
+              <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -179,13 +165,17 @@
         <option value="$PROJECT_DIR$/_posts/2019-02-23 Two Sum" />
         <option value="$PROJECT_DIR$/_posts/2019-02-24-Binary Subarrays With Sum.md" />
         <option value="$PROJECT_DIR$/_posts/2019-02-25-Reverse Vowels of a String.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-23 Two Sum.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-16-hourglass.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-25-Reverse Vowels of a String.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-27-Set Mismatch.markdown" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="35" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="977" />
+    <option name="height" value="975" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -331,7 +321,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -342,52 +332,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-01-23-indigo-jekyll-theme.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projects.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="64" lean-forward="true" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-23-indigo-jekyll-theme.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components.markdown">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-16-hourglass.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-23 Two Sum.markdown">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-19-multiply strings.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-16-hourglass.markdown">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-23 Two Sum">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-24-Binary Subarrays With Sum.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-19-multiply strings.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-25-Reverse Vowels of a String.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-24-Binary Subarrays With Sum.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-25-Reverse Vowels of a String.markdown">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-27-Set Mismatch.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="786">
+          <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
         </state>
       </provider>
     </entry>
