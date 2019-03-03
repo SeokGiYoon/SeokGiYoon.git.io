@@ -34,15 +34,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook:
+twitter:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: seokgi-yoon-a0257014b/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: SeokGiYoon
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,21 +51,15 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: evertys2004@gmail.com
 
 authors:
-    johndoe:
+    seokgi:
         name: Seokgi
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/sgImage.png
         twitter: seokgi
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
