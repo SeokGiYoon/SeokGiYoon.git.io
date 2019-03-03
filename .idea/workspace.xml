@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="433e1a89-e692-41d8-83c4-b40d6a960a47" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/author.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/author.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +26,7 @@
           <entry key="2019-02-23 Two Sum" value="1" />
           <entry key="Gemfile" value="2" />
           <entry key="Rakefile" value="1" />
-          <entry key="html" value="35" />
+          <entry key="html" value="48" />
           <entry key="iml" value="1" />
           <entry key="jpg" value="2" />
           <entry key="lock" value="1" />
@@ -36,18 +35,18 @@
           <entry key="sass" value="3" />
           <entry key="sh" value="1" />
           <entry key="txt" value="1" />
-          <entry key="xml" value="1" />
-          <entry key="yml" value="5" />
+          <entry key="xml" value="2" />
+          <entry key="yml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="35" />
+          <entry key="HTML" value="48" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="2" />
           <entry key="PLAIN_TEXT" value="25" />
-          <entry key="XML" value="1" />
-          <entry key="YAML" value="5" />
+          <entry key="XML" value="2" />
+          <entry key="YAML" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -56,46 +55,42 @@
           <entry key="html" value="144" />
           <entry key="markdown" value="22" />
           <entry key="md" value="81" />
-          <entry key="yml" value="99" />
+          <entry key="yml" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="144" />
           <entry key="PLAIN_TEXT" value="108" />
-          <entry key="YAML" value="99" />
+          <entry key="YAML" value="101" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="44" column="6" selection-start-line="44" selection-end-line="44" selection-end-column="6" />
+            <state relative-caret-position="577">
+              <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/header.html">
+        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/blog-post.html">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/author.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/_includes/favicon.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -104,32 +99,38 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/analytics-google.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/read-time.html">
+        <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/related.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/social-links.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="420">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/analytics-piwik.html">
+        <entry file="file://$PROJECT_DIR$/_site/indigo-jekyll-theme/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="1679" column="2" lean-forward="true" selection-start-line="1679" selection-start-column="2" selection-end-line="1679" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-65" />
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -139,8 +140,8 @@
       <find>profile</find>
       <find>rofile</find>
       <find>myfacebook</find>
-      <find>facebook</find>
       <find>location.href</find>
+      <find>facebook</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -175,8 +176,8 @@
         <option value="$PROJECT_DIR$/_site/blog/index.html" />
         <option value="$PROJECT_DIR$/_site/tags/index.html" />
         <option value="$PROJECT_DIR$/_site/indigo-jekyll-theme/index.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/author.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -202,7 +203,22 @@
             <path>
               <item name="SeokGiYoonBlog" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeokGiYoonBlog" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeokGiYoonBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeokGiYoonBlog" type="462c0819:PsiDirectoryNode" />
+              <item name=".sass-cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeokGiYoonBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeokGiYoonBlog" type="462c0819:PsiDirectoryNode" />
               <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeokGiYoonBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeokGiYoonBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeokGiYoonBlog" type="b2602c69:ProjectViewProjectNode" />
@@ -213,6 +229,17 @@
               <item name="SeokGiYoonBlog" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeokGiYoonBlog" type="462c0819:PsiDirectoryNode" />
               <item name="_sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeokGiYoonBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeokGiYoonBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeokGiYoonBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeokGiYoonBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeokGiYoonBlog" type="b2602c69:ProjectViewProjectNode" />
@@ -294,10 +321,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/images/profile.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-23-indigo-jekyll-theme.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components.markdown">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -379,13 +402,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/components/author.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -424,9 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -462,31 +475,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/indigo-jekyll-theme/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="1566" column="155" selection-start-line="1566" selection-start-column="142" selection-end-line="1566" selection-end-column="155" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/favicon.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/nav.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/analytics-piwik.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/blog-post.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="44" column="6" selection-start-line="44" selection-end-line="44" selection-end-column="6" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/author.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -495,25 +488,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/analytics-google.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/read-time.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/related.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/compress.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/blog-post.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/social-links.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
+        <state relative-caret-position="630">
           <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/favicon.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/related.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/indigo-jekyll-theme/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="1679" column="2" lean-forward="true" selection-start-line="1679" selection-start-column="2" selection-end-line="1679" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
         </state>
       </provider>
     </entry>
