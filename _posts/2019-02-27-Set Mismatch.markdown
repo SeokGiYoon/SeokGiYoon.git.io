@@ -1,7 +1,7 @@
 ---
 title: "【アルゴリズム勉強】JavaでSet Mismatchアルゴリズム解決"
 layout: post
-date: 2016-02-27
+date: 2019-02-27
 tag: jekyll
 projects: true
 category: project

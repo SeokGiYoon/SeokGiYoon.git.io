@@ -1,7 +1,7 @@
 ---
 title: "【アルゴリズム勉強】JavaでMultiply Stringsアルゴリズム解決"
 layout: post
-date: 2016-02-19
+date: 2019-02-19
 tag: jekyll
 projects: true
 category: project

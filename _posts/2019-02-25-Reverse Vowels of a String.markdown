@@ -1,7 +1,7 @@
 ---
 title: "【アルゴリズム勉強】JavaでReverse Vowels of a Stringアルゴリズム解決"
 layout: post
-date: 2016-02-24
+date: 2019-02-24
 tag: jekyll
 projects: true
 category: project

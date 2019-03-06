@@ -1,7 +1,7 @@
 ---
 title: "【アルゴリズム勉強】Java, Cでhourglassアルゴリズム解決"
 layout: post
-date: 2016-02-16
+date: 2019-02-16
 tag: jekyll
 projects: true
 category: project

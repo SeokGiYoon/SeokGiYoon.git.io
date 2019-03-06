@@ -1,7 +1,7 @@
 ---
-title: "【アルゴリズム勉強】JavaでSet Mismatchアルゴリズム解決"
+title: "【アルゴリズム勉強】Javaで Add to Array-Form of Integerアルゴリズム解決"
 layout: post
-date: 2016-03-05
+date: 2019-03-05
 tag: jekyll
 projects: true
 category: project
