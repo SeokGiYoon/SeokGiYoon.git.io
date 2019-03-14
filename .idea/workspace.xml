@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="433e1a89-e692-41d8-83c4-b40d6a960a47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-03-07-Unique Email Addresses.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-03-14-About stack.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,10 +16,11 @@
     <session id="-1024533220">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -31,7 +32,7 @@
           <entry key="iml" value="1" />
           <entry key="jpg" value="2" />
           <entry key="lock" value="1" />
-          <entry key="markdown" value="13" />
+          <entry key="markdown" value="14" />
           <entry key="md" value="12" />
           <entry key="sass" value="3" />
           <entry key="sh" value="1" />
@@ -45,7 +46,7 @@
           <entry key="HTML" value="48" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="2" />
-          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="PLAIN_TEXT" value="36" />
           <entry key="XML" value="2" />
           <entry key="YAML" value="7" />
         </counts>
@@ -54,7 +55,7 @@
         <counts>
           <entry key="2019-02-23 Two Sum" value="5" />
           <entry key="html" value="144" />
-          <entry key="markdown" value="2075" />
+          <entry key="markdown" value="2100" />
           <entry key="md" value="81" />
           <entry key="yml" value="101" />
         </counts>
@@ -62,7 +63,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="144" />
-          <entry key="PLAIN_TEXT" value="2161" />
+          <entry key="PLAIN_TEXT" value="2186" />
           <entry key="YAML" value="101" />
         </counts>
       </usages-collector>
@@ -71,19 +72,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-Add to Array-Form of Integer.markdown">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-07-Unique Email Addresses.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+            <state>
+              <caret selection-end-line="9" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-07-Unique Email Addresses.markdown">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-14-About stack.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="740">
+              <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
             </state>
           </provider>
         </entry>
@@ -100,7 +101,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
+            <state relative-caret-position="225">
               <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
             </state>
           </provider>
@@ -211,6 +212,7 @@
         <option value="$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-03-05-Add to Array-Form of Integer.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-03-07-Unique Email Addresses.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2019-03-14-About stack.markdown" />
       </list>
     </option>
   </component>
@@ -224,7 +226,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -288,6 +289,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,7 +330,7 @@
     <frame x="0" y="23" width="1680" height="974" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -354,9 +356,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tags.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/SeokGiYoonBlog.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -555,28 +554,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-27-Set Mismatch.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-Add to Array-Form of Integer.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-16-hourglass.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-25-Reverse Vowels of a String.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        <state relative-caret-position="225">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-24-Binary Subarrays With Sum.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-23 Two Sum.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2016-02-24-markdown-common-elements.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
@@ -590,38 +589,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-16-hourglass.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-23 Two Sum.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-02-24-markdown-common-elements.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-24-Binary Subarrays With Sum.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-25-Reverse Vowels of a String.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        <state relative-caret-position="45">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-Add to Array-Form of Integer.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-27-Set Mismatch.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+        <state relative-caret-position="45">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-07-Unique Email Addresses.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        <state>
+          <caret selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-14-About stack.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
         </state>
       </provider>
     </entry>
